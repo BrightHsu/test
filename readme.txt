@@ -7,4 +7,5 @@ Git tracks changes of files.
 12323
 2313
 真的在ffature1
-Creating a new branch is quick AND simple.
+Creating a new branch is quick and simple.
+
