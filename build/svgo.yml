@@ -55,6 +55,3 @@ plugins:
   - removeXMLNS: false
   - removeXMLProcInst: true
   - sortAttrs: true
-  
-  
-  aaaaaaaaaaaaaaaaaaaaa
